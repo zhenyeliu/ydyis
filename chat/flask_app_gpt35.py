@@ -7,7 +7,7 @@ sys.path.append(os.path.dirname(os.getcwd()))
 from flask import Flask, render_template, request, jsonify
 import time
 import threading
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 def generate_response(prompt):
     try:
