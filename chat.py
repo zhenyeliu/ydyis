@@ -1,6 +1,6 @@
 import openai
 import os
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 
 from flask import Flask
