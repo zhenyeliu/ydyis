@@ -1,4 +1,4 @@
-# conding=utf-8
+# -*- coding: utf-8 -*-
 import json
 import sys
 import os
